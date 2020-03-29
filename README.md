@@ -21,7 +21,7 @@ you need to install the following software libraries in your machine before runn
 
 ## ScreenShots
 
-![Image description](screenshots/screenshot1.png)
+![Image description](screenshots/screenshot1.png?raw=true "Optional Title")
 
 ## Authors:
     Palash Moon
