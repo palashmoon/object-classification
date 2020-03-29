@@ -21,7 +21,7 @@ you need to install the following software libraries in your machine before runn
 
 ## ScreenShots
 
-![Image description](../Users/HP/Desktop/images.png)
+![Image description](screenshots/screenshot1.png)
 
 ## Authors:
     Palash Moon
